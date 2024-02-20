@@ -1,0 +1,12 @@
+.card-conatiner{
+    color: white;
+    padding: 30px;
+    margin-left:70px;
+    display: flex;
+    flex-direction: column;
+
+}
+.card-conatiner>h2{
+font-size: 2rem;
+letter-spacing: 3px;
+}
